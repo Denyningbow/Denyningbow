@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Denyningbow
-- 👀 I’m interested in ...//Animation&AppDev
+- 👀 I’m interested in ...//Animation&Programming
 - 🌱 I’m currently learning ...PYthon
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
