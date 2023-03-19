@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Denyningbow
 - 👀 I’m interested in ...//Animation&Programming
-- 🌱 I’m currently learning ...PYthon
+- 🌱 I’m currently learning ...PYthon and java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
